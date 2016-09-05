@@ -1,3 +1,12 @@
+"""
+Author: Ezra Rice
+Date: 5 September 2016
+
+Note: Feel free to use this code as you wish. I just ask that 
+      you give proper credit to the author for any replication 
+      of code or algorithm. Thank you.
+"""
+
 # Take the entire code as a string from a file
 encrypted_file = open('encrypted_file.txt', 'r')
 decrypted_file = open('decrypted_file.txt', 'w')
